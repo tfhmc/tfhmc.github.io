@@ -1,0 +1,4 @@
+# robots.txt generated at https://openai.com
+User-agent: *
+Disallow: 
+Sitemap: http://taske.eu.org/sitemap.xml
