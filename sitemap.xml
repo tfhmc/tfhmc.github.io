@@ -414,13 +414,6 @@
   </url>
   
   <url>
-    <loc>https://www.taske.eu.org/tags/DNS/</loc>
-    <lastmod>2023-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.taske.eu.org/tags/%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -428,7 +421,7 @@
   </url>
   
   <url>
-    <loc>https://www.taske.eu.org/tags/%E4%BD%BF%E7%94%A8/</loc>
+    <loc>https://www.taske.eu.org/tags/DNS/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -456,14 +449,14 @@
   </url>
   
   <url>
-    <loc>https://www.taske.eu.org/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://www.taske.eu.org/tags/SSL/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.taske.eu.org/tags/SSL/</loc>
+    <loc>https://www.taske.eu.org/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -485,6 +478,13 @@
   
   <url>
     <loc>https://www.taske.eu.org/tags/FREE/</loc>
+    <lastmod>2023-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.taske.eu.org/tags/%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2023-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
