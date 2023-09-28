@@ -10181,6 +10181,13 @@ h1.page-title + .tag-cloud-list {
     margin-top: -1px;
   }
 }
+#footer:before {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+  content: '';
+}
 #footer-bar {
   padding: 1rem;
   color: var(--anzhiyu-fontcolor);
@@ -13923,11 +13930,6 @@ blockquote {
     background: var(--anzhiyu-background) !important;
     border: none;
   }
-}
-#post #article-container h2 {
-  border-top: 1px dashed var(--anzhiyu-theme-op);
-  padding-top: 1.5rem;
-  margin-top: 1.5rem;
 }
 #post .post_share {
   margin: 8px 0 0;
