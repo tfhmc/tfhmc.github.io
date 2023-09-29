@@ -456,7 +456,21 @@
   </url>
   
   <url>
+    <loc>https://www.taske.eu.org/tags/SSL/</loc>
+    <lastmod>2023-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.taske.eu.org/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2023-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.taske.eu.org/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -470,21 +484,7 @@
   </url>
   
   <url>
-    <loc>https://www.taske.eu.org/tags/SSL/</loc>
-    <lastmod>2023-09-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.taske.eu.org/tags/FREE/</loc>
-    <lastmod>2023-09-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.taske.eu.org/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
